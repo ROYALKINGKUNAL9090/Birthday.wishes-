@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Birthday Card Animation 🐼💗</title>
+  <title>Birthday Card Animation 🌙💗</title>
   <style>
     * {
       box-sizing: border-box;
@@ -266,7 +266,7 @@
         
         <div class="panda-center">
           <span class="floating-pink-heart heart-left">💗</span>
-          <div class="panda-avatar">🐼</div>
+          <div class="panda-avatar">🌙</div>
           <span class="floating-pink-heart heart-right">💓</span>
         </div>
 
@@ -294,7 +294,7 @@
           <span class="tree-caption">may all your wishes come true! ✨</span>
           
           <div class="tree-container" id="treeContainer">
-            <div style="font-size: 3rem;">🐼🌸</div>
+            <div style="font-size: 3rem;">🌙🌸</div>
           </div>
 
           <button class="replay-btn" id="replayBtn">Close Card</button>
