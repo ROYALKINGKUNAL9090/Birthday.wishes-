@@ -1,0 +1,2 @@
+// Change floating particles (hearts, stars, flowers, etc.)
+const hearts = ['💗', '💓', '🌸', '✨'];
