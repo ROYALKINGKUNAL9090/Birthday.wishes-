@@ -1,21 +1,23 @@
-# Birthday.wishes
+# 🎂 Interactive Birthday Card Animation 🐼💗
 
-This is a modern, responsive UI for the Birthday wishes project.
+A lightweight, interactive 3D pull-to-reveal digital birthday card built using HTML5, CSS3, and Vanilla JavaScript. Features smooth flip animations, pulsing glowing hearts, and floating particle effects.
 
-Features
-- Glassmorphism card with 3D flip
-- Compose area with live preview and typed effect
-- Lightweight confetti + heart particles on send
-- Mobile-first and accessible (keyboard flip & send shortcuts)
+---
 
-Integration
-1. Add these files to your repository root (or your site folder):
-   - index.html
+## ✨ Features
 
-2. Preview locally: open index.html in a browser.
+- **3D Card Flip Animation:** Realistic card rotation effect on interaction.
+- **Pull & Release Mechanism:** Interactive tab button triggering card opening.
+- **Multi-Stage Scenes:** Smooth transition from the cover to "Happy Birthday" banner, followed by floating blossom heart particles.
+- **Cute Panda & Hearts Theme:** Animated panda centerpiece with bouncing and pulsing effects.
+- **Zero External Dependencies:** Built with pure HTML, CSS, and Vanilla JavaScript — lightweight and fast.
+- **Fully Responsive:** Adapts cleanly to mobile screens and desktop browsers.
 
-3. Publish with GitHub Pages:
-   - Push to your repo (main branch or gh-pages).
-   - Enable Pages in repo Settings, select branch/root.
+---
 
-Want me to push these files into a branch and open a PR? I can create a branch like `ui/redesign` and commit these files for you.
+## 🚀 Quick Start
+
+### Option 1: Run Locally
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/your-username/birthday-card-animation.git
